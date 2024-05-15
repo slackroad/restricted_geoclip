@@ -16,3 +16,7 @@ https://youtu.be/Ftjf8YQp5U8?si=L7qb6U7iHKpOe04v
 Data: 
 https://drive.google.com/drive/folders/1zTK_v1J5NryVCq6GqQ7abqnLK6Rypz4R?usp=sharing
 
+Project report can be found at: project_report.pdf
+
+Presentation slide deck can be found at: presentaiton_slide_deck.pdf
+
