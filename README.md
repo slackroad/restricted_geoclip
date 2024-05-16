@@ -18,5 +18,5 @@ https://drive.google.com/drive/folders/1zTK_v1J5NryVCq6GqQ7abqnLK6Rypz4R?usp=sha
 
 Project report can be found at: project_report.pdf
 
-Presentation slide deck can be found at: presentaiton_slide_deck.pdf
+Presentation slide deck can be found at: presentation_slide_deck.pdf
 
